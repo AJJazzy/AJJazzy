@@ -7,5 +7,7 @@
 me = me()
 
 for i in everyone:
+
   if i == me:
+  
     print(f"Throughout Heaven and Earth, {i} Alone Is The Honored One")
